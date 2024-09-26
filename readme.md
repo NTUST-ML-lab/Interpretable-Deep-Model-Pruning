@@ -1,6 +1,6 @@
 ## This is the official code for Interpretable Deep Model Pruning
 ### Checkpoint
-- As for the model checkpoint, you can download at: https://1drv.ms/u/s!Ao-9hEYwmdRi9zQZC22bpL90Ck8O?e=nJKIhb
+- As for the model checkpoint, you can download at: https://1drv.ms/u/s!Ao-9hEYwmdRigYQfE1hll4HYrOcTWw?e=jdCfL8
 - The checkpoint needs to include the following keys:
 1. state_dict: The state_dict of the model
 2. test_dataset: The test dataset corresponding to the dataset
