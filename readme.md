@@ -13,6 +13,11 @@
    1. last_train_aug_data: The training data augmented in the last epoch
    2. last_train_aug_label: The training data labels augmented in the last epoch
 
+### Dataset:
+1. MNIST: torchvision
+2. CIFAR10: torchvision
+3. mini-imageNet: follow https://github.com/icoz69/CEC-CVPR2021
+
 ### Parameter Explanation
 In general, the main parameters that need to be modified are as follows:
 
