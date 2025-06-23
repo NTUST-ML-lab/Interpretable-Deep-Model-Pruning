@@ -53,3 +53,18 @@ There are 5 programs for finetuning:
 3. pruning_filter_finetune_layer_fixRatio.py: finetune the model with the pruning order. All layer can be pruned with given fixed pruning ratio for all layer
 4. pruning_filter_finetune_layer_fixRatio_resnet.py: finetune the ResNet with the pruning order. All layer can be pruned with given fixed pruning ratio for all layer
 5. pruning_filter_finetune_layer_only.py: finetune the pruned model.
+
+
+
+## Citation
+If you found the library useful for your work, we would be grateful if you could cite the following paper:
+```text
+@article{huang2025interpretable,
+  title={Interpretable deep model pruning},
+  author={Huang, Hanjuan and Pao, Hsing-Kuo},
+  journal={Neurocomputing},
+  pages={130485},
+  year={2025},
+  publisher={Elsevier}
+}
+```
